@@ -20,7 +20,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/luigimasdea/luigimasdea/output/snake.svg" alt="Snake animation" />
-
-###
